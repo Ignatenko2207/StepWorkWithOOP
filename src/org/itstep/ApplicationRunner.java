@@ -22,7 +22,6 @@ public class ApplicationRunner {
 		Square square1= new Square(15);
 		Square square2 = new Square(25);
 		
-		
 		List<Shape> shapes = new ArrayList<>();
 		shapes.add(square1);
 		shapes.add(square2);
