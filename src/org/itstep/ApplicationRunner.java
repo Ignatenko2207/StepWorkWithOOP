@@ -14,10 +14,10 @@ public class ApplicationRunner {
 
 	public static void main(String[] args) {
 		Triangle triangle1 = new Triangle(15, 20);
-		Triangle triangle2 = new Triangle(30, 10);
+		Triangle triangle2 = new Triangle(80.0, 50.0);
 
-		Circle circle1 = new Circle(15);
-		Circle circle2 = new Circle(25);
+		Circle circle1 = new Circle(2);
+		Circle circle2 = new Circle(3);
 		
 		Square square1= new Square(15);
 		Square square2 = new Square(25);
